@@ -1,0 +1,26 @@
+h1 {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.foto-wrapper {
+    width: 100%;
+    text-align: right;
+}
+
+.foto-perfil {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-right: 50px;
+    margin-top: -50px;
+}
+
+p {
+    font-size: 20px;
+    max-width: 60%;
+}
+
+.text {
+    margin-top: -220px;
+}
